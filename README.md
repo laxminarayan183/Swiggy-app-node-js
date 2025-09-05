@@ -56,4 +56,18 @@ Token: squ_983573f5ed8baca362ba501ad6e04b3e70c23093
 
 - Similarly configure dockerhub credentials with id as "dockerhub-token" with kind as "username with password"
 
+
 ### step 7 create pipeline
+<img width="1843" height="776" alt="pipeline" src="https://github.com/user-attachments/assets/41049a0b-3a30-4ccd-bc1f-8f0ceef057d9" />
+
+### Sonarqube 
+<img width="1645" height="731" alt="sonarq" src="https://github.com/user-attachments/assets/c5d7c85c-5690-4533-83d8-77dab60f5c1b" />
+
+### OWASP Dependancy Check
+<img width="1839" height="756" alt="dependancy" src="https://github.com/user-attachments/assets/8ebda6b9-16ea-4d7d-b845-7c3dd3be3ab6" />
+
+### Swiggy App
+<img width="1821" height="759" alt="swiggy" src="https://github.com/user-attachments/assets/c363fc51-576c-4f9f-9da4-f63d7d0ad5b2" />
+
+
+
